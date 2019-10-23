@@ -5,6 +5,7 @@
  
  <!-- 
  	mapper:映射呵呵呵
+ 	mapper:映射哈哈哈
  	namespace:名称空间
   -->
 <mapper namespace="com.ryz.MyBatis.Mapper.empMapper">
