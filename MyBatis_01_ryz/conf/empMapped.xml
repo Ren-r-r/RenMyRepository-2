@@ -4,7 +4,7 @@
  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
  
  <!-- 
- 	mapper:映射
+ 	mapper:映射呵呵呵
  	namespace:名称空间
   -->
 <mapper namespace="com.ryz.MyBatis.Mapper.empMapper">
